@@ -57,7 +57,7 @@ export const countries = [
       flag: "/assets/images/flags/Cuba.png"
   },
   {
-      name: "Dominican Republic",
+      name: "Dominican Republica",
       capital: "Santo Domingo",
       population: 10847904,
       currency: "Peso",

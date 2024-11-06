@@ -27,9 +27,18 @@ fieldset > select{
 
 .demographics{
   width: 17rem;
-  height: 10rem;
+  height: 17rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
   overflow: hidden;
   border:  double 5px #4242f29f;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #fff;
+}
+
+.demographics > h2{
+  width: 80%;
 }
